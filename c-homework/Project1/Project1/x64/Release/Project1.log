@@ -1,0 +1,4 @@
+﻿  main.c
+C:\VScode\c-homework\Project1\Project1\main.c(17,15): warning C4013: “addArray”未定义；假设外部返回 int
+main.obj : error LNK2001: 无法解析的外部符号 addArray
+C:\VScode\c-homework\Project1\x64\Release\Project1.exe : fatal error LNK1120: 1 个无法解析的外部命令
